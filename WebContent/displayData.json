@@ -1,0 +1,63 @@
+{
+    "pageHeader": "Automation Team Status Tracker",
+    "teamData": [
+    
+       {
+            "empName": "Santosh Kumar Jalagari",
+            "tasks": [
+	            {"task":"BIC STG and DEV Regression"},
+	            {"task":"BIC STG Regression"},
+	            {"task":"BIC DEV Regression"},
+	            {"task":"BIC Users Stories Automation"},
+	            {"task":"Rework on Existing scripts"},
+	            {"task":"Adhoc"}
+             ]
+        },
+        {
+            "empName": "Pooraj NA",
+            "tasks": [
+	            {"task":"NAMER STG and DEV Regression"},
+	            {"task":"NAMER STG Regression"},
+	            {"task":"NAMER DEV Regression"},
+	            {"task":"NAMER Users Stories Automation"},
+	            {"task":"Rework on Existing scripts"},
+	            {"task":"Adhoc"}
+             ]
+        },
+        {
+            "empName": "Vijay T",
+            "tasks": [
+	            {"task":"NAMER STG and DEV Regression"},
+	            {"task":"NAMER STG Regression"},
+	            {"task":"NAMER DEV Regression"},
+	            {"task":"NAMER Users Stories Automation"},
+	            {"task":"Rework on Existing scripts"},
+	            {"task":"Adhoc"}
+             ]
+        },
+        {
+            "empName": "Malini HM",
+            "tasks": [
+	            {"task":"IAE STG and DEV Regression"},
+	            {"task":"PJ72 STG Regression"},
+	            {"task":"IAE DEV Regression"},
+	            {"task":"IAE Users Stories Automation"},
+	            {"task":"PJ72 Users Stories Automation"},
+	            {"task":"Rework on Existing scripts"},
+	            {"task":"Adhoc"}
+             ]
+        },
+        {
+            "empName": "Raghavendra G",
+            "tasks": [
+	            {"task":"IAE STG and DEV Regression"},
+	            {"task":"PJ72 STG Regression"},
+	            {"task":"IAE DEV Regression"},
+	            {"task":"IAE Users Stories Automation"},
+	            {"task":"PJ72 Users Stories Automation"},
+	            {"task":"Rework on Existing scripts"},
+	            {"task":"Adhoc"}
+             ]
+        }
+   ]
+}

@@ -1,0 +1,250 @@
+{
+    "pageHeader": "Automation Team Status Tracker",
+    "teamData": [
+    
+       {	
+       		"projectName": "Autodesk",
+       		"empDetails":[
+       			{
+		            "empName": "Santosh Kumar Jalagari",
+		            "tasks": [
+		            	{"task":"Daily Status Call"},
+			            {"task":"BIC Portal STG and DEV sanity Execution"},
+			            {"task":"BIC Portal STG Regression"},
+			            {"task":"BIC Portal DEV Regression"},
+			            {"task":"BIC Users Stories Automation"},
+			            {"task":"Fixing/updating Scripts"},
+			            {"task":"Cognizant Initiatives"},
+			            {"task":"Leave"},
+			            {"task":"Adhoc"}
+		             ]
+	             },
+	             {	
+        	
+			        "empName": "Rajeev Anantharaman",
+			            "tasks": [
+			            	{"task":"Daily Status Call"},	
+				            {"task":"DDWS STG Regression"},
+				            {"task":"DDWS Stories Automation"},
+				            {"task":"Fixing/updating Scripts"},
+				            {"task":"Cognizant Initiatives"},
+				            {"task":"Leave"},
+				            {"task":"Adhoc"}
+			             ]    
+			       },
+			       {	
+        	
+			            "empName": "Pooraj NA",
+			            "tasks": [
+			            	{"task":"Daily Status Call"},
+			            	{"task":"BIC Portal STG and DEV sanity Execution"},
+			            	{"task":"BIC Portal STG Regression"},
+				            {"task":"NAMER STG and DEV Regression"},
+				            {"task":"NAMER STG Regression"},
+				            {"task":"NAMER DEV Regression"},
+				            {"task":"NAMER Users Stories Automation"},
+				            {"task":"Fixing/updating Scripts"},
+				            {"task":"Cognizant Initiatives"},
+				            {"task":"Leave"},
+				            {"task":"Adhoc"}
+			             ]
+			        },
+			        {	
+			            "empName": "Vijay T",
+			            "tasks": [
+			            	{"task":"Daily Status Call"},
+				            {"task":"NAMER STG and DEV Regression"},
+				            {"task":"NAMER STG Regression"},
+				            {"task":"NAMER DEV Regression"},
+				            {"task":"NAMER Users Stories Automation"},
+				            {"task":"Fixing/updating Scripts"},
+				            {"task":"Cognizant Initiatives"},
+				            {"task":"Leave"},
+				            {"task":"Adhoc"}
+				            
+			             ]
+			        },
+			        {
+				            "empName": "Malini HM",
+				            "tasks": [
+								{"task":"Daily Status Call"},            
+					            {"task":"IAE STG and DEV Regression"},
+					            {"task":"PJ72 STG Regression"},
+					            {"task":"IAE DEV Regression"},
+					            {"task":"IAE Users Stories Automation"},
+					            {"task":"PJ72 Users Stories Automation"},
+					            {"task":"Rework on Existing scripts"},
+					            {"task":"Cognizant Initiatives"},
+					            {"task":"Leave"},
+					            {"task":"Adhoc"}
+				             ]
+				        },
+				        {	
+				            "empName": "Raghavendra G",
+				            "tasks": [
+								{"task":"Daily Status Call"},            
+					            {"task":"IAE STG and DEV Regression"},
+					            {"task":"PJ72 STG Regression"},
+					            {"task":"IAE DEV Regression"},
+					            {"task":"IAE Users Stories Automation"},
+					            {"task":"PJ72 Users Stories Automation"},
+					            {"task":"Rework on Existing scripts"},
+					            {"task":"Cognizant Initiatives"},
+					            {"task":"Leave"},
+					            {"task":"Adhoc"}
+				             ]
+				        },
+				         {	
+				            "empName": "Vithyusha Revuri",
+				            "tasks": [
+				            	{"task":"Daily Status Call"},
+					            {"task":"POSA Automation"},
+					            {"task":"HBS Automation"},
+					            {"task":"ROM Automation"},
+					            {"task":"Fixing/updating Scripts"},
+					            {"task":"Cognizant Initiatives"},
+					            {"task":"Leave"},
+					            {"task":"Adhoc"}
+				             ]
+				        },
+				        {	
+				            "empName": "Sukesh Kumar",
+				            "tasks": [
+				            	{"task":"Daily Status Call"},
+					            {"task":"KT"},
+					            {"task":"Cognizant Initiatives"},
+					            {"task":"Leave"},
+					            {"task":"Adhoc"}
+				             ]
+				        },
+				        {
+				            "empName": "Udaya Singh",
+				            "tasks": [
+				            	{"task":"Daily Status Call"},
+					            {"task":"KT"},
+					            {"task":"Cognizant Initiatives"},
+					            {"task":"Leave"},
+					            {"task":"Adhoc"}
+				             ]
+				        }
+             ]
+        },
+        {	
+       		"projectName": "Net App Ind Assessment Tools QA",
+       		"empDetails":[
+			       	{
+			            "empName": "V C Chamundeeswari",
+			            "tasks": [
+			            	{"task":"Daily Status Call"},
+				            {"task":"KT"},
+				            {"task":"Cognizant Initiatives"},
+				            {"task":"Leave"},
+				            {"task":"Adhoc"}
+			             ]
+			        },
+			        {
+			            "empName": "Kotapati Poornima",
+			            "tasks": [
+			            	{"task":"Daily Status Call"},
+				            {"task":"KT"},
+				            {"task":"Cognizant Initiatives"},
+				            {"task":"Leave"},
+				            {"task":"Adhoc"}
+			             ]
+			        }
+             ]
+        }
+        {	
+       		"projectName": "NetApp Ind DSG",
+       		"empDetails":[
+			       	{
+			            "empName": "Somrita Roy Sarma",
+			            "tasks": [
+			            	{"task":"Daily Status Call"},
+				            {"task":"KT"},
+				            {"task":"Cognizant Initiatives"},
+				            {"task":"Leave"},
+				            {"task":"Adhoc"}
+			             ]
+			        },
+			        {
+			            "empName": "Thobias Lilly Pushpam",
+			            "tasks": [
+			            	{"task":"Daily Status Call"},
+				            {"task":"KT"},
+				            {"task":"Cognizant Initiatives"},
+				            {"task":"Leave"},
+				            {"task":"Adhoc"}
+			             ]
+			        }
+             ]
+        },
+        {	
+       		"projectName": "Akamai",
+       		"empDetails":[
+			       	{
+			            "empName": "Palaniyappan Ramya",
+			            "tasks": [
+			            	{"task":"Daily Status Call"},
+				            {"task":"KT"},
+				            {"task":"Cognizant Initiatives"},
+				            {"task":"Leave"},
+				            {"task":"Adhoc"}
+			             ]
+			        },
+			        {
+			            "empName": "Gantala Pavani Reddy",
+			            "tasks": [
+			            	{"task":"Daily Status Call"},
+				            {"task":"KT"},
+				            {"task":"Cognizant Initiatives"},
+				            {"task":"Leave"},
+				            {"task":"Adhoc"}
+			             ]
+			        }
+             ]
+        },
+        {	
+       		"projectName": "Keysight Web Metrics",
+       		"empDetails":[
+			       	{
+			            "empName": "K Supriya",
+			            "tasks": [
+			            	{"task":"Daily Status Call"},
+				            {"task":"KT"},
+				            {"task":"Cognizant Initiatives"},
+				            {"task":"Leave"},
+				            {"task":"Adhoc"}
+			             ]
+			        },
+			        {
+			            "empName": "Natarajan Ramya",
+			            "tasks": [
+			            	{"task":"Daily Status Call"},
+				            {"task":"KT"},
+				            {"task":"Cognizant Initiatives"},
+				            {"task":"Leave"},
+				            {"task":"Adhoc"}
+			             ]
+			        }
+             ]
+        },
+        {	
+       		"projectName": "AMAT SAP Projects IND",
+       		"empDetails":[
+			       	{
+			            "empName": "Ayyavari Chetty Sai kiran",
+			            "tasks": [
+			            	{"task":"Daily Status Call"},
+				            {"task":"KT"},
+				            {"task":"Cognizant Initiatives"},
+				            {"task":"Leave"},
+				            {"task":"Adhoc"}
+			             ]
+			        }
+			       
+             ]
+        }
+         
+   ]
+}

@@ -1,0 +1,177 @@
+{
+    "pageHeader": "Team Status Tracker",
+    "teamData": [
+    
+       {	
+       		"projectName": "Automation",
+       		"empDetails":[
+       			{
+		            "empName": "Santosh Kumar Jalagari",
+		            "tasks": [
+		            	{"task":"Daily Status Call"},
+			            {"task":"BIC Portal STG and DEV sanity Execution"},
+			            {"task":"BIC Portal STG Regression"},
+			            {"task":"BIC Portal DEV Regression"},
+			            {"task":"Raise/Updated Defect"},
+			            {"task":"BIC Users Stories Automation"},
+			            {"task":"Fixing/updating Scripts"},
+			            {"task":"Test Data Creation"},
+			            {"task":"Cognizant Initiatives"},
+			            {"task":"Leave"},
+			            {"task":"Adhoc"}
+		             ]
+	             },
+	             {	
+        	
+			        "empName": " Rajeev Anantharaman",
+			            "tasks": [
+			            	{"task":"Daily Status Call"},	
+				            {"task":"DDWS STG Regression"},
+				            {"task":"DDWS Stories Automation"},
+				            {"task":"Raise/Updated Defect"},
+				            {"task":"Fixing/updating Scripts"},
+				            {"task":"Test Data Creation"},
+				            {"task":"Cognizant Initiatives"},
+				            {"task":"Leave"},
+				            {"task":"Adhoc"}
+			             ]    
+			       },
+			       {	
+        	
+			            "empName": "Pooraj NA",
+			            "tasks": [
+			            	{"task":"Daily Status Call"},
+			            	{"task":"BIC Portal STG and DEV sanity Execution"},
+			            	{"task":"BIC Portal STG Regression"},
+				            {"task":"NAMER STG and DEV Regression"},
+				            {"task":"Raise/Updated Defect"},
+				            {"task":"NAMER STG Regression"},
+				            {"task":"NAMER DEV Regression"},
+				            {"task":"NAMER Users Stories Automation"},
+				            {"task":"Fixing/updating Scripts"},
+				            {"task":"Cognizant Initiatives"},
+				            {"task":"Leave"},
+				            {"task":"Adhoc"}
+			             ]
+			        },
+			        {	
+			            "empName": "Vijay T",
+			            "tasks": [
+			            	{"task":"Daily Status Call"},
+				            {"task":"NAMER STG and DEV Regression"},
+				            {"task":"NAMER STG Regression"},
+				            {"task":"NAMER DEV Regression"},
+				            {"task":"NAMER Users Stories Automation"},
+				            {"task":"Raise/Updated Defect"},
+				            {"task":"Fixing/updating Scripts"},
+				            {"task":"Cognizant Initiatives"},
+				            {"task":"Leave"},
+				            {"task":"Adhoc"}
+				            
+			             ]
+			        },
+			        {
+				            "empName": "Malini HM",
+				            "tasks": [
+								{"task":"Daily Status Call"},            
+					            {"task":"Portal STG and DEV Regression"},
+					            {"task":"Portal STG Regression"},
+					            {"task":"Portal DEV Regression"},
+					            {"task":"Portal Users Stories Automation"},
+					            {"task":"Raise/Updated Defect"},
+					            {"task":"Fixing/updating Scripts"},
+					            {"task":"Cognizant Initiatives"},
+					            {"task":"Leave"},
+					            {"task":"Adhoc"}
+				             ]
+				        },
+				        {	
+				            "empName": "Raghavendra G",
+				            "tasks": [
+								{"task":"Daily Status Call"},            
+					            {"task":"Portal STG and DEV Regression"},
+					            {"task":"Portal STG Regression"},
+					            {"task":"Portal DEV Regression"},
+					            {"task":"Portal Users Stories Automation"},
+					            {"task":"Raise/Updated Defect"},
+					            {"task":"Fixing/updating Scripts"},
+					            {"task":"Cognizant Initiatives"},
+					            {"task":"Leave"},
+					            {"task":"Adhoc"}
+				             ]
+				        },
+				         {	
+				            "empName": "Vithyusha Revuri",
+				            "tasks": [
+				            	{"task":"Daily Status Call"},
+					            {"task":"POSA Automation"},
+					            {"task":"HBS Automation"},
+					            {"task":"ROM Automation"},
+					            {"task":"Fixing/updating Scripts"},
+					            {"task":"Raise/Updated Defect"},
+					            {"task":"Cognizant Initiatives"},
+					            {"task":"Leave"},
+					            {"task":"Adhoc"}
+				             ]
+				        },
+				        {	
+				            "empName": "Sukesh Kumar",
+				            "tasks": [
+				            	{"task":"Daily Status Call"},            
+					            {"task":"Portal STG and DEV Regression"},
+					            {"task":"Portal STG Regression"},
+					            {"task":"Portal DEV Regression"},
+					            {"task":"Portal Users Stories Automation"},
+					            {"task":"Raise/Updated Defect"},
+					            {"task":"Fixing/updating Scripts"},
+					            {"task":"Cognizant Initiatives"},
+					            {"task":"Leave"},
+					            {"task":"Adhoc"}
+				             ]
+				        },
+				        {
+				            "empName": "Udaya Singh",
+				            "tasks": [
+				            	{"task":"Daily Status Call"},            
+					            {"task":"AUM STG and DEV Regression"},
+					            {"task":"AUM STG Regression"},
+					            {"task":"AUM DEV Regression"},
+					            {"task":"AUM Users Stories Automation"},
+					            {"task":"Raise/Updated Defect"},
+					            {"task":"Fixing/updating Scripts"},
+					            {"task":"Cognizant Initiatives"},
+					            {"task":"Leave"},
+					            {"task":"Adhoc"}
+				             ]
+				        }
+             ]
+        },
+        {		
+       		"projectName": "Performance",
+       		"empDetails":[
+			       	{
+			            "empName": "V C Chamundeeswari",
+			            "tasks": [
+			            	{"task":"Daily Status Call"},
+				            {"task":"KT"},
+				            {"task":"Cognizant Initiatives"},
+				            {"task":"Leave"},
+				            {"task":"Adhoc"}
+			             ]
+			        },
+			        {
+			            "empName": "Kotapati Poornima",
+			            "tasks": [
+			            	{"task":"Daily Status Call"},
+				            {"task":"KT"},
+				            {"task":"Cognizant Initiatives"},
+				            {"task":"Leave"},
+				            {"task":"Adhoc"}
+			             ]
+			        }
+             ]
+        }
+        
+         
+   ]
+}

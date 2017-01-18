@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
+    version="2.4">
+  <display-name>Status Tracker</display-name>
+  <welcome-file-list>
+    <welcome-file>statusTracker.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description>This servlet is responsible to update the page details to DB</description>
+    <display-name>ADDDATA</display-name>
+    <servlet-name>ADDDATA</servlet-name>
+    <servlet-class>com.updateToDB.ADDDataToDB</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ADDDATA</servlet-name>
+    <url-pattern>/ADDDATA</url-pattern>
+  </servlet-mapping>
+   <servlet>
+    <description>This servlet gets data from DB</description>
+    <display-name>getDataFromDB</display-name>
+    <servlet-name>getDataFromDB</servlet-name>
+    <servlet-class>com.updateToDB.GetDataFromDB</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>getDataFromDB</servlet-name>
+    <url-pattern>/getDataFromDB</url-pattern>
+  </servlet-mapping>
+</web-app>
